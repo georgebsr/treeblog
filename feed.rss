@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel><title>Trees blog</title><link>http://example.com/blog/index.html</link>
+<description>A blog about trees</description><language>en</language>
+<lastBuildDate>Sat, 08 Apr 2023 21:17:54 +0300</lastBuildDate>
+<pubDate>Sat, 08 Apr 2023 21:17:54 +0300</pubDate>
+<atom:link href="http://example.com/blog/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+Computer Trees
+</title><description><![CDATA[
+
+<p>In computer science, a tree is a widely used abstract data type that represents a hierarchical tree structure with a set of connected nodes. Each node in the tree can be connected to many children (depending on the type of tree), but must be connected to exactly one parent, except for the root node, which has no parent. These constraints mean there are no cycles or "loops" (no node can be its own ancestor), and also that each child can be treated like the root node of its own subtree, making recursion a useful technique for tree traversal.</p>
+
+<p>Tags: <a href='tag_trees.html'>trees</a></p>
+<!-- text end -->
+]]></description><link>http://example.com/blog/computer-trees.html</link>
+<guid>http://example.com/blog/./computer-trees.html</guid>
+<dc:creator>Giwrgos Basiaris</dc:creator>
+<pubDate>Sat, 08 Apr 2023 21:17:52 +0300</pubDate></item>
+</channel></rss>
